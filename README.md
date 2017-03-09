@@ -10,4 +10,4 @@ To use linux well, it's necessary to do something as follows:
 
 ## sublime
 Use it mainly for c/c++. Hence, it's necessary to have a good configuration so that we can directly compile and run the code.
-+ [sublime_c++](/sumlime_c++)
++ sublime_c++
