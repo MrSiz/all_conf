@@ -1,2 +1,13 @@
 # all_conf
-configuration
+This project mainly contains some configurations.
+
+## Linux
+To use linux well, it's necessary to do something as follows:
++ install vim(the file **.vimrc** is useful in this project)
++ update the GCC to the newest version
++ install shadowsocks
++ markdown
+
+## sublime
+Use it mainly for c/c++. Hence, it's necessary to have a good configuration so that we can directly compile and run the code.
++ [sublime_c++](./sumlime_c++)
